@@ -7,7 +7,7 @@ ORG:TECH3 Solutions;
 TITLE:Digital Marketing
 EMAIL;type=INTERNET;type=WORK;type=pref:xk.ong@tech3.my
 TEL;type=WORK;type=VOICE:+60 12 395 3699
-item1.ADR;type=WORK;type=pref:;;6-1, Jalan Puteri 4/2, Bandar Puteri,;;;47100 Puchong; Selangor
+item1.ADR;type=WORK;type=pref:;;6-1\, Jalan Puteri 4/2\, Bandar Puteri\, Puchong\,;;;47100; Selangor
 item1.X-ABADR:my
 item2.URL;type=pref:tech3.my
 item2.X-ABLabel:_$!<HomePage>!$_
